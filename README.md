@@ -4,14 +4,14 @@ Robust Hadamard Autoencoders is a generalization of the Robust deep Autoencoders
 
 Prerequisites
 
+
 •	Python 3
-
 •	Numpy3
-
 •	Tensorflow
 
 
 Citation
+
 
 If you find this repo useful and would like to cite it, please cite as follows:
 
