@@ -6,7 +6,9 @@ Prerequisites
 
 
 •	Python 3
+
 •	Numpy3
+
 •	Tensorflow
 
 
