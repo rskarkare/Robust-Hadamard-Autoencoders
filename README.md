@@ -17,4 +17,11 @@ Citation
 
 If you find this repo useful and would like to cite it, please cite as follows:
 
+@article{karkare2021blind,
+  title={Blind Image Denoising and Inpainting Using Robust Hadamard Autoencoders},
+  author={Karkare, Rasika and Paffenroth, Randy and Mahindre, Gunjan},
+  journal={arXiv preprint arXiv:2101.10876},
+  year={2021}
+}
+
 
