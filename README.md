@@ -1,6 +1,6 @@
 # Robust-Hadamard-Autoencoders
 
-Robust Hadamard Autoencoders is a generalization of the Robust deep Autoencoders wherein we extend the model for detecting noise and outliers on unseen test data. The model is also used for inpainting random blocks of missing data. This repo offers an implementation based on Tensorflow. 
+Robust Hadamard Autoencoders is a generalization of the Robust deep Autoencoders wherein we extend the model for detecting noise and outliers on unseen test data. The model is also used for inpainting blocks of missing data. This repo offers an implementation based on Tensorflow. 
 
 Prerequisites
 
